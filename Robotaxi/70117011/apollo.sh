@@ -1,4 +1,7 @@
 #! /usr/bin/env bash
+
+
+test lxy
 set -e
 
 TOP_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd -P)"
