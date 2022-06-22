@@ -3,6 +3,7 @@
 
 test lxy
 testtest lxy
+testtest lxylxy
 set -e
 
 TOP_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd -P)"
